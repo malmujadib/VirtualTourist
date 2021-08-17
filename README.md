@@ -1,5 +1,5 @@
 # VirtualTourist
-an app that shows pins on a map when you click it will take to another page to demonstrate for you pictures at the area. Also if no connection found will alert you.
+An iphone app downloads and stores images from Flickr. The app allows users to drop pins on a map, as if they were stops on a tour. Users will then be able to download pictures for the location and persist both the pictures, and the association of the pictures with the pin.
 
 ### Requirements
 * Xcode 
